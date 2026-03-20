@@ -12,8 +12,8 @@ st.set_page_config(
 # =========================
 # CONFIG
 # =========================
-LOGO_PATH = "/content/logo.png"
-FONDO_PATH = "/content/fondo.jpg"
+LOGO_PATH = "logo.png"
+FONDO_PATH = "fondo.jpg"
 
 USUARIO_VALIDO = "ADMIN"
 CLAVE_VALIDA = "123"
